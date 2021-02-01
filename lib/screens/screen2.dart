@@ -276,7 +276,7 @@ class gui extends State<MyApp> {
 
           Row(
             children: <Widget>[
-//BUTTON 3
+          //BUTTON 3
               OutlineButton(
                 onPressed: () {
                   setState(() {
@@ -308,7 +308,7 @@ class gui extends State<MyApp> {
                 color: Colors.amber,
                 height: 90,
               ),
-//BUTTON 4
+              //BUTTON 4
               OutlineButton(
                 onPressed: () {
                   setState(() {
