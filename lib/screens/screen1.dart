@@ -34,7 +34,7 @@ class screen1 extends StatelessWidget {
           "Tic - Tac - Toe",
           style: TextStyle(
             color: Colors.white,
-            fontSize: 28,
+            fontSize: 25,
           ),
         ),
         leading: Icon(

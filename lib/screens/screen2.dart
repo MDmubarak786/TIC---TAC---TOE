@@ -9,10 +9,10 @@ class screen2 extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         title: Text(
-          "Tic-Tac-Toe",
+          "Tic - Tac - Toe",
           style: TextStyle(
             color: Colors.white,
-            fontSize: 28,
+            fontSize: 25,
           ),
         ),
         leading: Icon(
