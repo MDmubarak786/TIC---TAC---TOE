@@ -1,9 +1,4 @@
 
-![1]()
-![2]()
-![3]()
-![4]()
-
 
 <img src="https://user-images.githubusercontent.com/44917891/106453599-906c4080-64af-11eb-856f-9d8aeac63c50.jpg" width="400" height="700"> 
 <img src="https://user-images.githubusercontent.com/44917891/106453609-94985e00-64af-11eb-9755-e5a5baf4a2eb.jpg" width="400" height="700"> 
