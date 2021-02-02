@@ -1,3 +1,24 @@
+<h1 align="center">🦾 Movie Lovers 👀</h1>  
+
+```
+
+👋 ❤️This is Flutter application made it as a Movie app like a Netflix and amazon.
+
+🟢 I take it only Marvel and Dc movies That only in available in this app. 
+
+🟢 Added Splash Screen
+
+🟢 In this app , I added some Cache image for cache storage. and also added Toast ,cool loading animations 
+
+🟢 This app contains Movie's name, lenth, title, trailer with webview page, outline,director.
+
+🟢 Last About page I am added some social network account links in that page.
+
+
+```
+
+
+
 
 
 <img src="https://user-images.githubusercontent.com/44917891/106453599-906c4080-64af-11eb-856f-9d8aeac63c50.jpg" width="400" height="700"> 
