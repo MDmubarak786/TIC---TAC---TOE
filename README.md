@@ -1,16 +1,30 @@
-# tictactoe
+<h1 align="center">🦾 TIC TAC TOE 👀</h1>  
 
-A new Flutter application.
+```
 
-## Getting Started
+👋 ❤️This is Flutter gaming app made it as a tic tac toe players.
 
-This project is a starting point for a Flutter application.
+🟢 Added Splash Screen
 
-A few resources to get you started if this is your first Flutter project:
+🟢 using a better animation , theme , game play skill.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+
+
+
+##
+
+# 🤳 ScreenShots 👀 
+
+
+
+
+<img src="https://user-images.githubusercontent.com/44917891/106453599-906c4080-64af-11eb-856f-9d8aeac63c50.jpg" width="400" height="700">                 <img src="https://user-images.githubusercontent.com/44917891/106453609-94985e00-64af-11eb-9755-e5a5baf4a2eb.jpg" width="400" height="700"> 
+<img src="https://user-images.githubusercontent.com/44917891/106453623-982be500-64af-11eb-9b6d-4d96ba8adbe4.jpg" width="400" height="700">                 <img src="https://user-images.githubusercontent.com/44917891/106453633-9a8e3f00-64af-11eb-82af-1442a3856e72.jpg" width="400" height="700"> 
+
+
+##
+ # 🔴 Kindly Don't forget to give a star and follow ....
+
+<b>Copyright © 2021 Mohammed Mubarak</b>
